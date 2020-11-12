@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 
 const Title = () => {
-    const [title, setTitle] = useState('Aplikasi React Pertamaku')
-    const [subTitle, setSubTitle] = useState('Dibuat dengan semangat!')
+    const [title, setTitle] = useState('Belajar React JS')
+    const [subTitle, setSubTitle] = useState('')
 
     return (
         <div>
